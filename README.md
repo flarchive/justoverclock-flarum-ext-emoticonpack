@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of justoverclock/flarum-ext-emoticonpack.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-emoticonpack) or the [upstream repository](https://github.com/justoverclockl/flarum-ext-emoticonpack).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-flarum-ext-emoticonpack/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^v1.8.0`
+**4** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-flarum-ext-emoticonpack/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^v1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-07-01 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-emoticonpack/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-07-02 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-emoticonpack/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-09-24 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-emoticonpack/tree/archive/v0.1.2) |
+| `1.0.0` | 2024-11-14 | `^v1.8.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-emoticonpack/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/justoverclock-flarum-ext-emoticonpack.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flarum-ext-emoticonpack.json)
 
